@@ -9,5 +9,6 @@ package fr.insa.monprojet.test4javafx;
  * @author Amadou Coulibaly
  */
 public class Barre {
+    int a;
     
 }
